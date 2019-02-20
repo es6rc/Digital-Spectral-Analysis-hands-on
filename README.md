@@ -9,8 +9,7 @@ This is a hands-on project, applying [Power Spectral Density](https://en.wikiped
 * [Covariance PSD estimate](https://en.wikipedia.org/wiki/Spectral_density_estimation#Example_calculation)
 * **Covariance PSD estimates**
 * [Adaptive Least Mean Squares](https://en.wikipedia.org/wiki/Least_mean_squares_filter)
-* [MUSIC PSD estimates] (https://en.wikipedia.org/wiki/MUSIC_(algorithm)
-As shown in report, 
+* [MUSIC PSD estimates] (https://en.wikipedia.org/wiki/MUSIC_(algorithm))
 ### Data Set 
 * 1: a **128-point** real data sequence consisting of **unit-amplitude sinusoids** at
 **10Hz, 11Hz, and 25Hz**. Sampling frequency **fs=64 /second**.
